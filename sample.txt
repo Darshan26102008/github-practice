@@ -2,3 +2,4 @@ This is my GitHub project.
 
 I am learning to  files in GitHub.
 This is my sample text file.
+I have updated this file.
